@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://ec2-54-73-147-133.eu-west-1.compute.amazonaws.com:5432/deecesr6evbgfm
+    username: srweumdkbseimw
+    passport: bb399eb735c392e4432932a922f9293b95764e6355ff192d204b90c54d980050
+
